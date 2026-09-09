@@ -1,0 +1,6 @@
+{
+  "name": "Anveshan - Forensic Blockchain Intelligence Platform",
+  "description": "Cryptocurrency forensic investigation platform for automated wallet attribution to Virtual Asset Service Providers (VASPs), UTXO-level fund provenance tracking, and deep blockchain intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
